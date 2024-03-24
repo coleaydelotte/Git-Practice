@@ -3,4 +3,7 @@ Cooper Nannen
 Cole Aydelotte
 Adam Steidle
 Omer Qureshi
-
+Java
+Python
+Rust
+Hello
