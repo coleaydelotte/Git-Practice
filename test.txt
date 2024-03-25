@@ -10,3 +10,4 @@ Hello
 Python
 Bolt
 MacOS
+Personal Computer
